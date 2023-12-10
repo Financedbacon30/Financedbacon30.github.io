@@ -1,0 +1,74 @@
+
+.header {
+  background-color: gainsboro;
+  height: 5em;
+  
+}
+.header a {
+    float:right;
+    margin: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.header a:visited{
+    color: blueviolet;
+}
+
+.header a:link{
+    color: darkred;
+}
+.header a:hover{
+    color: darkred;
+}
+
+/* Code for all containers other than homepage. */
+.container{ 
+    background-color: white;
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.container img{
+    width: 45%;
+    height: 550px;
+    flex-direction:row;
+}
+/*home page container*/
+.container1{
+   background-color: white;
+   width: 80%;
+   margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow:hidden;
+    text-align: center;
+    
+}
+.container1 img{
+    float: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 60%;
+}
+/*Body on all pages*/
+body{
+    background-color: gainsboro;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+table{
+    padding-left: 10px;
+}
+
+
+
+
