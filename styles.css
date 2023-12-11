@@ -120,4 +120,21 @@ table{
 }
 
 
+/*Responsive styles*/
+@media screen and (max-width: 650px){
+    .sidebyside{
+    display: none;
+    }
+    .container1 img{
+        height: 120px;
+        width: 115px;
+        margin-bottom: 5px;
+    }
+
+
+
+
+}
+
+
 
