@@ -10,7 +10,7 @@ a{
   background-color: gainsboro;
   height: 5em;
 
-
+/*Font*/
   font-family: 'Inter', sans-serif;
 font-family: 'Kalam', cursive;
 font-family: 'Montserrat', sans-serif;
@@ -35,10 +35,6 @@ font-family: 'Ubuntu', sans-serif;
 .header a:hover{
     color: darkred;
 }
-
-/*Font*/
-
-
 
 
 /* Code for all containers other than homepage. */
